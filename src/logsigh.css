@@ -1,0 +1,73 @@
+#Name,#pass,#rpass{
+    width: 200px;
+}
+#n,#p,#r{
+    text-align: center;
+    font-size: larger;
+    font-style: normal;
+}
+form{
+    border-style: solid;
+    
+}
+#s{
+    text-align: center;
+
+}
+button{
+    width: 100px; 
+}
+.x1{
+    display:flex;
+    background: burlywood;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+h1{
+    position: relative;
+    left : 200px;
+    text-align: center;
+    color :blue
+}
+#sign{
+    position : relative;
+    top : 30px ;
+    left : 110px;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    text-decoration: blue;
+    font-weight: bold;
+}
+
+.imagebox{
+    width: 400px;
+    height: 200px;
+    border : 2px solid black;
+    margin : 2px;
+    border-radius: 10px;
+    position: relative;
+    left: 500px;
+    /* float: left; */
+}
+.t1{
+    background-color: rgb(179, 255, 0);
+    padding: 20px;
+    margin : 0;
+    border: 10px solid black;
+    height: 20px;
+    width: 200px;
+    position: relative;
+    left : 550px;
+    text-align: center;
+}
+.roll{
+    position: relative;
+    right: 500px;
+}
+.ghost{
+    position: relative;
+    bottom: 290px;
+    /* left : 150px; */
+}
